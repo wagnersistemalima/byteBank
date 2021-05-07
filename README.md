@@ -1,6 +1,9 @@
 # byteBank
 projeto desenvolvido no curso de Kotlin da Alura
 
+* Linguagem: Kotlin
+* Ide:  IntelliJ
+
 ## O projeto consiste:
 
 * Criação de um banco, chamado byteBank
